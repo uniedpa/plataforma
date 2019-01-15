@@ -1,2 +1,2 @@
 # Plataforma
-Código y documentción de la plataforma informática de UNIEDPA
+Código y documentación de la plataforma informática de UNIEDPA
